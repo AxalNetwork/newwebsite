@@ -86,14 +86,6 @@ main_menu:
 
           - text: "About 04"
             url: "/about/about-4"
-      
-      - sub_menu_text: "Shop"
-        sub_menu:
-          - text: "Shop 01"
-            url: "/shop/index"
-
-          - text: "Shop 02"
-            url: "/shop/index-2"
 
       - sub_menu_text: "Contact"
         sub_menu:
