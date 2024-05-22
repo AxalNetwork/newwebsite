@@ -8,9 +8,6 @@ main_menu:
       - text: "Digital Startup"
         url: "/"
 
-      - text: "Saas Landing"
-        url: "/index-2"
-
       - text: "SEO Agency"
         url: "/index-3"
 
@@ -44,12 +41,6 @@ main_menu:
       - text: "Creative Agency"
         url: "/index-13"
 
-      - text: "Wedding Photography"
-        url: "/index-14"
-
-      - text: "Food Photography"
-        url: "/index-15"
-
       - text: "Creative Onepage"
         url: "/index-16"
 
@@ -58,33 +49,6 @@ main_menu:
 
       - text: "Startup Business"
         url: "/index-18"
-
-      - text: "Creative Resume"
-        url: "/index-19"
-
-      - text: "Digital Studio"
-        url: "/index-20"
-
-      - text: "Travel Blog"
-        url: "/index-21"
-
-      - text: "Minimal Shop"
-        url: "/index-22"
-
-      - text: "Minimal Portfolio"
-        url: "/index-23"
-
-      - text: "Coming Soon"
-        url: "/index-24"
-
-      - text: "Personal Creative"
-        url: "/index-25"
-
-      - text: "Minimal Photography"
-        url: "/index-26"
-
-      - text: "Maintenance"
-        url: "/index-27"
 
   - text: "Pages"
     url: "/"
